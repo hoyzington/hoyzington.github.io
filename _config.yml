@@ -1,11 +1,11 @@
 # Site settings
 author: Scott Hoisington
-title: 
+title: Scott, a Full Stack Web Developer
 header-img: img/home-bg.png
 email: hoyzington@gmail.com
 copyright_name: Scott Hoisington
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Yes.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hoyzington
